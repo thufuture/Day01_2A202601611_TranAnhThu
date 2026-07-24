@@ -447,7 +447,7 @@ def run_assistant(
 
 
 # ===========================================================================
-# BONUS (không bắt buộc — cho bạn nào xong sớm)
+# BONUS (không bắt buộc — cho bạn nào xong )
 # ===========================================================================
 def batch_compare(prompts: list[str]) -> list[dict]:
     """

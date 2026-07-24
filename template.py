@@ -468,7 +468,7 @@ def format_comparison_table(results: list[dict]) -> str:
     Cột: Prompt | GPT-4o Response | Mini Response | GPT-4o Latency | Mini Latency
     Gợi ý: cắt text dài còn 40 ký tự cho dễ nhìn.
     """
-    # TODO (bonus): dựng chuỗi bảng và trả về
+    # TODO (bonus): dựng chuỗi bảng và tả về
     raise NotImplementedError("Implement format_comparison_table")
 
 

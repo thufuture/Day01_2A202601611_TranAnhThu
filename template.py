@@ -400,7 +400,7 @@ def run_assistant(
         return {"num_turns": num_turns, "total_tokens": total_tokens,
                 "total_cost": total_cost, "history": history}
     """
-    from openai import OpenAI          # import TRONG hàm — xem quy tắc ở đầu guide
+    from openai import OpenAI          # import TRONG hà — xem quy tắc ở đầu guide
 
     if get_input is None:
         get_input = input
